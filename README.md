@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gseok
-- 👀 I’m interested in web development and fw
+- 👋 Hi, I’m @gseok, my blog is here: [https://gseok.github.io](https://gseok.github.io) And [AboutMe](https://gseok.github.io/about)
+- 👀 I’m interested in web development!!
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on naver map
 - 📫 How to reach me? gseok.seo@gmail.com
